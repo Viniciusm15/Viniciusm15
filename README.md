@@ -13,3 +13,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="60"/>
 </div>
+
+## My Stats
+
+<div>
+  <a href="https://github.com/Viniciusm15">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viniciusm15&layout=compact&langs_count=7&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Viniciusm15&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  </a>
+</div>
