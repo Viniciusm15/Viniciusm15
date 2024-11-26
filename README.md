@@ -22,3 +22,14 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Viniciusm15&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   </a>
 </div>
+
+## Contacts
+
+<div>
+  <a href="https://instragram.com/viniciush.martins">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/vinícius-hiago-martins-a33ab617b">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
