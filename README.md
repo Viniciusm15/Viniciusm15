@@ -1,10 +1,16 @@
-## Hi there 👋
+Olá! Eu sou o Vinícius 👋
+---
 
-- 🔭 I’m currently working on personal project | Júnior Developer
-- 💬 Ask me about C# or React
-- 📫 How to reach me: https://www.linkedin.com/in/vinicius-hiago-martins-a33ab617b/
+### 💼 Sobre mim
 
-## Best technologies
+- 🎓 Júnior Developer | Back-end
+- 💻 Tecnologias favoritas: C#, ASP.NET Core, React, SQL
+- 🔍 Atualmente focado em projetos pessoais e aprendendo mais sobre arquitetura limpa
+- 📫 Me encontre no [LinkedIn](https://www.linkedin.com/in/vinicius-hiago-martins-a33ab617b/)
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="60"/>
@@ -14,7 +20,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="60"/>
 </div>
 
-## My Stats
+---
+
+### 📊 GitHub Stats
 
 <div>
   <a href="https://github.com/Viniciusm15">
@@ -23,10 +31,23 @@
   </a>
 </div>
 
-## Contacts
+---
 
-<div>
-  <a href="https://linkedin.com/in/vinicius-hiago-martins-a33ab617b">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</div>
+### 🌟 Projetos em destaque
+
+- 🔄 **[API de Gestão de Recursos Humanos](https://github.com/Viniciusm15/Servidores)**  
+  Sistema completo de gerenciamento de servidores, unidades e documentos pessoais, desenvolvido em Java com Spring Boot. Estruturado com arquitetura em camadas, autenticação JWT, testes automatizados e integração com banco de dados PostgreSQL.
+
+- 📦 **[Sistema de Pedidos Fullstack – Backend](https://github.com/Viniciusm15/cadastro-pedidos-backend)** &nbsp;|&nbsp; [Frontend](https://github.com/Viniciusm15/cadastro-pedidos-frontend)  
+  Solução completa de pedidos com **backend em C# (ASP.NET Core)** e **frontend em React**. O painel administrativo oferece:
+
+  - 📊 **Dashboard** com visão geral de vendas, produtos com baixo estoque, pedidos pendentes e clientes ativos  
+  - 📦 **Gerenciamento de Produtos**: cadastro, edição, exclusão, filtros e upload de imagens  
+  - 🗂️ **Gerenciamento de Categorias**: controle de categorias com contagem de produtos  
+  - 👤 **Gerenciamento de Clientes**: cadastro, histórico de compras e operações CRUD  
+  - 🧾 **Gerenciamento de Pedidos**: filtros por status, data e cliente, atualização de status e geração de relatórios  
+---
+
+### 📬 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vinicius-hiago-martins-a33ab617b/)
