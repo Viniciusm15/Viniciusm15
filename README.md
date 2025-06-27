@@ -30,7 +30,6 @@ Olá! Eu sou o Vinícius 👋
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Viniciusm15&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
   </a>
 </div>
----
 
 ### 🌟 Projetos em destaque
 
