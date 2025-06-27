@@ -5,7 +5,7 @@ Olá! Eu sou o Vinícius 👋
 
 - 🎓 Júnior Developer | Back-end
 - 💻 Tecnologias favoritas: C#, ASP.NET Core, React, SQL
-- 🔍 Atualmente focado em projetos pessoais e aprendendo mais sobre arquitetura limpa
+- 🔍 Explorando projetos pessoais e me aprofundando em C#.
 - 📫 Me encontre no [LinkedIn](https://www.linkedin.com/in/vinicius-hiago-martins-a33ab617b/)
 
 ---
