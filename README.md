@@ -6,7 +6,6 @@ Olá! Eu sou o Vinícius 👋
 - 🎓 Junior .NET Back-End Developer
 - 💻 Tecnologias favoritas: C#, ASP.NET Core, React, PostgreSQL
 - 🔍 Explorando projetos pessoais e me aprofundando em C#.
-- 📫 Me encontre no [LinkedIn](https://www.linkedin.com/in/vinicius-hiago-martins-a33ab617b/)
 
 ---
 
