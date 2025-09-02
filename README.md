@@ -40,7 +40,3 @@ Olá! Eu sou o Vinícius 👋
   - 👤 **Gerenciamento de Clientes**: cadastro, histórico de compras e operações CRUD  
   - 🧾 **Gerenciamento de Pedidos**: filtros por status, data e cliente, atualização de status e geração de relatórios  
 ---
-
-### 📬 Contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vinicius-hiago-martins-a33ab617b/)
