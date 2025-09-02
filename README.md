@@ -13,7 +13,7 @@ Olá! Eu sou o Vinícius 👋
 ### 🛠️ Tecnologias e Ferramentas
 
 <div>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,git,react,nodejs,js,postgres,mysql,visualstudio,vscode,azure,docker" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,git,react,nodejs,js,postgres,visualstudio,vscode,azure,docker" />
 </div>
 
 ---
