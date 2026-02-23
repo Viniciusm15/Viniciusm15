@@ -55,14 +55,14 @@ galaxy_arms:
 #   arm: 0-2                  — Which galaxy arm to associate with (index)
 #   description: "..."        — Short description shown on the card
 projects:
-  - repo: "cadastro-pedidos-backend | cadastro-pedidos-frontend"
-    arm: 0
+  - repo: "cadastro-pedidos-backend"
+    arm: 1
     description: "Solução completa de e-commerce com backend em C# (ASP.NET Core) e frontend em React."
   - repo: "seplag-api-servidores"
     arm: 1
     description: "Sistema completo de gerenciamento de servidores, unidades e documentos pessoais."
   - repo: "studio-ghibli-tracker"
-    arm: 2
+    arm: 0
     description: "Aplicação interativa em React que consome a API pública do Studio Ghibli."
 
 # Theme color overrides (optional — defaults to deep space palette)
