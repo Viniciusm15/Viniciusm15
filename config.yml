@@ -36,18 +36,22 @@ galaxy_arms:
     color: "dendrite_violet"
     items:
       - "React"
-      - "Javascript"
-      - "Node.js"
+      - "JavaScript"
   - name: "Backend"
     color: "synapse_cyan"
     items:
       - "C#"
       - ".NET"
+      - "Node.js"
       - "PostgreSQL"
-  - name: "DevOps"
+  - name: "DevOps & Tools"
     color: "axon_amber"
     items:
+      - "Git"
       - "Docker"
+      - "Azure"
+      - "Visual Studio"
+      - "VS Code"
 
 # Featured projects shown as constellation stars
 # Each project needs:
