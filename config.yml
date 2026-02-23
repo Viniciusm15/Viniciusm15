@@ -37,6 +37,7 @@ galaxy_arms:
     items:
       - "React"
       - "JavaScript"
+      - "CSS"
   - name: "Backend"
     color: "synapse_cyan"
     items:
