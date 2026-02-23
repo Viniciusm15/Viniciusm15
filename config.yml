@@ -20,7 +20,7 @@ profile:
   location: "Blumenau, SC"
   bio: |
     Tecnologias favoritas: C#, ASP.NET Core, React, PostgreSQL
-  philosophy: '"Explorando projetos pessoais e me aprofundando em C#."'
+  philosophy: 'Explorando projetos pessoais e me aprofundando em C#'
 
 # Social links displayed at the bottom of the profile
 social:
