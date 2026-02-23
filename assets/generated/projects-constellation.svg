@@ -134,7 +134,7 @@
     <circle cx="226.66666666666666" cy="85" r="2" fill="#ffffff" opacity="0.9"/>
     <text x="226.66666666666666" y="111" fill="#f1f5f9" font-size="14" font-weight="bold" font-family="sans-serif" text-anchor="middle">seplag-api-servidores</text>
     <text x="226.66666666666666" y="129" fill="#94a3b8" font-size="11" font-family="sans-serif" text-anchor="middle">Sistema completo de gerenciamento de</text>
-    <text x="226.66666666666666" y="144" fill="#94a3b8" font-size="11" font-family="sans-serif" text-anchor="middle">servidores, unidades e documentos pessoais,</text>
+    <text x="226.66666666666666" y="144" fill="#94a3b8" font-size="11" font-family="sans-serif" text-anchor="middle">servidores, unidades e documentos pessoais.</text>
     <rect x="190.66666666666666" y="163" width="72" height="18" rx="9" ry="9" fill="#a78bfa" opacity="0.12"/>
     <text x="226.66666666666666" y="175" fill="#a78bfa" font-size="9" font-family="monospace" text-anchor="middle" opacity="0.85">Frontend</text>
   </g>
@@ -151,7 +151,7 @@
     <circle cx="623.3333333333334" cy="85" r="2" fill="#ffffff" opacity="0.9"/>
     <text x="623.3333333333334" y="111" fill="#f1f5f9" font-size="14" font-weight="bold" font-family="sans-serif" text-anchor="middle">studio-ghibli-tracker</text>
     <text x="623.3333333333334" y="129" fill="#94a3b8" font-size="11" font-family="sans-serif" text-anchor="middle">Aplicação interativa em React que consome a</text>
-    <text x="623.3333333333334" y="144" fill="#94a3b8" font-size="11" font-family="sans-serif" text-anchor="middle">API pública do Studio Ghibli para exibir e</text>
+    <text x="623.3333333333334" y="144" fill="#94a3b8" font-size="11" font-family="sans-serif" text-anchor="middle">API pública do Studio Ghibli.</text>
     <rect x="590.8333333333334" y="163" width="65" height="18" rx="9" ry="9" fill="#00d4ff" opacity="0.12"/>
     <text x="623.3333333333334" y="175" fill="#00d4ff" font-size="9" font-family="monospace" text-anchor="middle" opacity="0.85">Backend</text>
   </g>
