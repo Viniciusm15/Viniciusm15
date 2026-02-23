@@ -57,10 +57,10 @@ galaxy_arms:
 projects:
   - repo: "seplag-api-servidores"
     arm: 0
-    description: "Sistema completo de gerenciamento de servidores, unidades e documentos pessoais, desenvolvido em Java com Spring Boot. Estruturado com arquitetura em camadas, autenticação JWT, testes automatizados e integração com banco de dados PostgreSQL."
+    description: "Sistema completo de gerenciamento de servidores, unidades e documentos pessoais."
   - repo: "studio-ghibli-tracker"
     arm: 1
-    description: "Aplicação interativa em React que consome a API pública do Studio Ghibli para exibir e favoritar filmes do estúdio. Inclui interface moderna, navegação dinâmica e filtros por título e diretor."
+    description: "Aplicação interativa em React que consome a API pública do Studio Ghibli."
 
 # Theme color overrides (optional — defaults to deep space palette)
 # All values must be valid hex color codes (#RRGGBB)
