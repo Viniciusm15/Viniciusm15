@@ -146,3 +146,47 @@ Atualmente, estou em busca de novos desafios como desenvolvedor .NET, com foco e
       src="https://github-stats-extended.vercel.app/api/top-langs/?username=Viniciusm15&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7&card_width=400&hide=jupyter%20notebook,dockerfile" 
   />
 </p>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+
+### 💼 Principais Projetos
+
+**🏦 [PagueVeloz — Sistema de Processamento de Transações Financeiras](https://github.com/Viniciusm15/desafio-pague-veloz)**
+
+Desafio técnico para fintech: núcleo transacional de uma plataforma de adquirência, com Clean Architecture em 5 camadas, CQRS via MediatR e pipeline de eventos assíncronos usando o padrão Transactional Outbox. Implementa idempotência por `reference_id`, controle de concorrência otimista via `xmin` do PostgreSQL e testes de integração com Testcontainers.
+
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET%209-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+---
+
+**🛒 Cadastro de Pedidos — API E-commerce & Painel Administrativo**
+[`Back-end`](https://github.com/Viniciusm15/cadastro-pedidos-backend) · [`Front-end`](https://github.com/Viniciusm15/cadastro-pedidos-frontend)
+
+Sistema completo de gestão de e-commerce: CRUD de produtos, categorias, clientes e pedidos, com upload de imagens, filtros por status/data e relatórios de vendas. Back-end em .NET com Entity Framework Core, testes com xUnit/FluentAssertions/Testcontainers e ambiente 100% containerizado com Docker Compose.
+
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET%208-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+---
+
+**🏛️ [SeplagAPI — Sistema de Gestão de Servidores Públicos](https://github.com/Viniciusm15/seplag-api-servidores)**
+
+Desafio técnico desenvolvido para a Secretaria de Planejamento e Gestão de Mato Grosso (SEPLAG-MT): API de cadastro e administração de servidores públicos, com autenticação JWT, upload de imagens via MinIO, paginação, documentação via Swagger e orquestração completa via Docker Compose.
+
+![Java](https://img.shields.io/badge/Java%2017-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=flat-square&logo=minio&logoColor=white)
