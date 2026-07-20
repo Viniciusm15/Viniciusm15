@@ -4,7 +4,7 @@
 
 Me chamo Vinícius Hiago Martins, natural de Santa Catarina e atualmente moro em Blumenau. Minha formação passa pelo Instituto Federal de Santa Catarina (IFSC), onde cursei o técnico em Informática e, na sequência, me formei em Análise e Desenvolvimento de Sistemas (2020–2023).
 
-Atuo como Desenvolvedor FullStack, com forte atuação em back-end .NET. Construí minha experiência na Ambev Tech — onde iniciei como estagiário e evoluí para desenvolvedor full stack, atuando no desenvolvimento de um sistema financeiro interno com C#, ASP.NET Core, Entity Framework, PostgreSQL e React.js. Nesse percurso, consolidei boas práticas de engenharia de software como Clean Code, SOLID e testes unitários, além de trabalhar com metodologias ágeis (Scrum) e ferramentas como Git, Azure DevOps e Docker.
+Atuo como Desenvolvedor FullStack, com forte atuação em back-end .NET. Construí minha experiência na Ambev Tech, onde iniciei como estagiário e evoluí para desenvolvedor full stack, atuando no desenvolvimento de um sistema financeiro interno com C#, ASP.NET Core, Entity Framework, PostgreSQL e React.js. Nesse percurso, consolidei boas práticas de engenharia de software como Clean Code, SOLID e testes unitários, além de trabalhar com metodologias ágeis (Scrum) e ferramentas como Git, Azure DevOps e Docker.
 
 Atualmente, estou em busca de novos desafios como desenvolvedor .NET, com foco em aprofundar meu conhecimento técnico e continuar evoluindo na área de back-end.
 
